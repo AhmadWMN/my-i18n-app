@@ -1,0 +1,16 @@
+{
+  "navigation": {
+    "home": "Home",
+    "blogs": "Blogs"
+  },
+  "home": {
+    "title": "Welcome to Our Blog",
+    "description": "Discover amazing stories and insights",
+    "readMore": "Read More"
+  },
+  "blogs": {
+    "title": "Our Blog Posts",
+    "backToList": "Back to Blog List",
+    "publishedOn": "Published on"
+  }
+} 
